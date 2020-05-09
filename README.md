@@ -4,7 +4,7 @@
 
 ```
 rm -f uploader.sh* && \
-wget https://github.com/yuyzhen/KindleEar-Uploader/blob/master/uploader.sh && \
+wget https://raw.githubusercontent.com/yuyzhen/KindleEar-Uploader/master/uploader.sh && \
 chmod +x uploader.sh && \
 ./uploader.sh
 ```
