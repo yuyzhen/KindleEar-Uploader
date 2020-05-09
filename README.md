@@ -13,5 +13,3 @@ chmod +x uploader.sh && \
 
 * KindleEar 上传教程：https://bookfere.com/post/19.html
 * KindleEar 项目地址：https://github.com/cdhigh/KindleEar
-
----
